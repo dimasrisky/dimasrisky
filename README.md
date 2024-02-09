@@ -1,13 +1,23 @@
-👨‍💻 I'm a high school student based in Malang, Indonesia 🏝️, passionate about both web development and web design.
+# 👨‍💻 Hi there! I'm [Your Name] 👋
 
-💡 Currently, I'm exploring the world of web with various tools, including:
-  
-  - HTML & CSS to lay a strong foundation for web design 🎨
-  - JavaScript to bring interactivity to websites 🚀
-  - Tailwind CSS to speed up frontend development with a modern look 🌈
-  - React to build dynamic and responsive web applications 📊
-  - Node.js for server-side application development and collaborating with backend teams 🚀
+🏝️ High school student hailing from Malang, Indonesia, with a passion for web development and design.
 
-🌐 I'm always enthusiastic about exploring the latest web technologies and applying them to creative projects. Let's collaborate or simply chat about exciting web technologies!
+## 💡 Skills & Tools
 
-📧 Feel free to reach out to me for collaboration opportunities or questions. Let's create amazing web experiences together! 🤝
+- 🎨 **HTML & CSS**: Crafting stunning web designs.
+- 🚀 **JavaScript**: Adding dynamism to web landscapes.
+- 🌈 **Tailwind CSS**: Lightning-fast frontend development with a sleek touch.
+- 📊 **React**: Sculpting dynamic and responsive web marvels.
+- 🚀 **Node.js**: Traversing the server-side realm and harmonizing with backend brigades.
+- ⚙️ **Laravel**: Crafting robust server-side applications with elegance.
+- ⚡ **Livewire**: Building dynamic user interfaces with real-time capabilities.
+
+## 🌐 About Me
+
+An ever-curious explorer of bleeding-edge web technologies, weaving them into captivating projects. Let's weave our codes together into digital tapestries!
+
+## 📧 Let's Connect!
+
+Open to collaborations and queries. Let's sculpt extraordinary web experiences hand in hand! 🤝
+
+Feel free to reach out to me via [email](rizkyalphazee@gmail.com).
