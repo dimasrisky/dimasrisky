@@ -1,6 +1,6 @@
 # 👨‍💻 Hi there! My Name Is Dimas Rizky Maulana Ahmad 👋
 
-🏝️ High school student hailing from Malang, Indonesia, with a passion for web development and design.
+Passion for web development and design.
 
 ## 💡 Skills & Tools
 
